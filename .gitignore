@@ -1,0 +1,6 @@
+node_modules
+raw_schedules
+hospital_details
+frontend/dist/
+/.env
+package-lock.json
